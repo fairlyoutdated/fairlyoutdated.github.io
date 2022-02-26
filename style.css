@@ -11,6 +11,15 @@ a{
 color: white;
 }
 
+.hero-text img{
+
+	-webkit-filter: drop-shadow(2px 1px 2 black)
+                  drop-shadow(-1px -1px 2 black);
+  filter: drop-shadow(2px 1px 0 black) 
+          drop-shadow(-1px -1px 0 black);
+	
+}
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("code-1076536_1920.jpg");
   height: 75%;
