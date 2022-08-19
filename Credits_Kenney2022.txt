@@ -1,0 +1,7 @@
+Mega Expanded Driving: Family Game Pack
+Made for the Kenney Game Jam 2022
+
+Title font: https://www.dafont.com/payback.font
+All other graphical assets from Kenney
+
+Programming and music: Safariminer
