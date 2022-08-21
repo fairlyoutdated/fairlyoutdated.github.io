@@ -4,4 +4,23 @@ Made for the Kenney Game Jam 2022
 Title font: https://www.dafont.com/payback.font
 All other graphical assets from Kenney
 
-Programming and music: Safariminer
+Programming: Safariminer
+
+Music:
+
+"J'ai accidentellement causé un génocide(ça tourne mal, explications)"
+by Safariminer
+used in main menu
+
+"Adrenaline"
+by Safariminer
+used in Level 1
+
+"serverAiStep__6PlayerFv"
+by Safariminer
+used in Level 2
+
+"Unreal Superhero"
+by Radix
+used in Credits
+http://modarchive.org/index.php?request=view_player&query=67561
